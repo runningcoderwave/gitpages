@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 刘神捕的学习之旅
+subtitle: 
 description:
 keywords:
-author: John Doe
-language:
+author: 
+language: zh-CN
 timezone:
 
 # URL
@@ -74,6 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: landscape
+exclude_generator:
+plugins: 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
